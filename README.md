@@ -14,15 +14,15 @@
 </div>
 <div>
 <p style="font-size: 18px">Página principal:</p>
-    <img src="src/img/home.png" style="width: 100%">
+    <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/home.png" style="width: 100%">
 
 <p style="font-size: 18px">Página mobile:</p>
-    <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/01.PNG" style="width: 50%; margin-top: -15px">
-    <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/02.PNG" style="width: 50%; margin-top: -15px">
-    <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/03.PNG" style="width: 50%; margin-top: -15px">
-    <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/04.PNG" style="width: 50%; margin-top: -15px">
+    <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/01.PNG" style="width: 50%; margin-top: -20px">
+    <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/02.PNG" style="width: 50%; margin-top: -20px">
+    <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/03.PNG" style="width: 50%; margin-top: -20px">
+    <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/04.PNG" style="width: 50%; margin-top: -20px">
 <p style="font-size: 18px">Menu mobile:</p>
-        <img src="src/img/mobile-menu.png" style="width: 100%; margin-top: -15px;">
+        <img src="https://raw.githubusercontent.com/1ELShiroe/sales-platform-template/main/src/img/mobile-menu.png" style="width: 100%; margin-top: -15px;">
 </div>
 <div>
     <h2>Ficha Técnica:</h2>
